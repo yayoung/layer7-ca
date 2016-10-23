@@ -1,0 +1,11 @@
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\bin\Debug\before_start.exe.config
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\bin\Debug\before_start.exe
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\bin\Debug\before_start.pdb
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\obj\Debug\before_start.csprojResolveAssemblyReference.cache
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\obj\Debug\before_start.Properties.Resources.resources
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\obj\Debug\before_start.csproj.GenerateResource.Cache
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\obj\Debug\before_start.exe
+c:\users\kookk\documents\visual studio 2015\Projects\before_start\before_start\obj\Debug\before_start.pdb
+C:\Users\KOOKK\Documents\Visual Studio 2015\Projects\before_start\before_start\obj\Debug\before_start.Quit_ask.resources
+C:\Users\KOOKK\Documents\Visual Studio 2015\Projects\before_start\before_start\obj\Debug\before_start.ingame.resources
+C:\Users\KOOKK\Documents\Visual Studio 2015\Projects\before_start\before_start\obj\Debug\before_start.before_game.resources
