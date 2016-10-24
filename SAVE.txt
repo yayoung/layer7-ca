@@ -1,0 +1,52 @@
+
+전달  수정   삭제   이동    번역
+   
+ using System;
+
+16-10-24 (월) 03:52
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+ 
+namespace 하하하하ㅏㅎ
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+ 
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            //타이머 설정 리셋
+            timer1.Interval = 3 * 60 * 1000;
+            timer1.Enabled = false;
+            timer1.Enabled = true;
+           // label1.Text = System.DateTime.Now.ToString();
+            label1.Text=
+                (System.DateTime.Now - System.Convert.ToDateTime(label1.Text)).Minutes.ToString()+" : "+
+                (System.DateTime.Now - System.Convert.ToDateTime(label1.Text)).Seconds.ToString() ;
+        }
+ 
+        private void button1_Click(object sender, EventArgs e)
+        {
+        }
+ 
+        private void time1_Tick(object sender, EventArgs e)
+        {
+            //label1.Text =
+                //(System.DateTime.Now - System.Convert.ToDateTime(label1.Text)).Minutes.ToString()+" : "+
+                //(System.DateTime.Now - System.Convert.ToDateTime(label1.Text)).Seconds.ToString();
+            System.Media.SystemSounds.Asterisk.Play();
+        }
+    }
+}
+
+맨위로
